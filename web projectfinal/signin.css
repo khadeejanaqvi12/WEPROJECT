@@ -1,0 +1,32 @@
+form {
+     position: absolute;
+     top: 60%;
+     left: 50%;
+     transform: translate(-50%,-50%);
+     border-style: solid;
+    border: 0px solid black;
+    border-width:2px;
+    box-sizing: border-box;
+     
+
+};
+.third{
+     width:500px !important;
+     height: 50px !important;
+
+}
+
+.hey{
+    width: 1500x;
+    height: 90vh;
+    position: relative;
+    background-image: url(./Images/signinbackground.jpg);
+    background-position-x : center;
+   background-position-y : center;
+    background-repeat : no-repeat;
+
+
+}
+body{
+    background-color: red;
+}
